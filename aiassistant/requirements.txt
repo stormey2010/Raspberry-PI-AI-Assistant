@@ -1,9 +1,0 @@
-asyncio
-fastapi
-groq
-numpy
-openwakeword
-pyaudio
-unittest2
-uvicorn
-wave
